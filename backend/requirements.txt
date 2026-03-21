@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+euroleague-api
+python-dotenv

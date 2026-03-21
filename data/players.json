@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Example Player",
+    "position": "G",
+    "team_code": "MAD",
+    "price": 10.0,
+    "euroleague_player_id": null
+  }
+]

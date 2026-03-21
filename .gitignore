@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment variables (never commit secrets)
+.env
+.env.local
+
+# Auto-generated stats — re-fetch with POST /stats/fetch/{round}
+data/stats/round_*.json
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
+
+# Claude Code personal settings (not project config)
+.claude/
