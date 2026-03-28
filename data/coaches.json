@@ -1,8 +1,22 @@
 [
-  {
-    "id": 1,
-    "name": "Example Coach",
-    "team_code": "MAD",
-    "price": 8.0
-  }
+  {"id": 1, "name": "Georgios Bartzokas", "name_he": "גאורגיוס ברצוקאס", "team_code": "OLY", "price": 14.0},
+  {"id": 2, "name": "Ergin Ataman", "name_he": "ארגין עתמאן", "team_code": "PAN", "price": 14.0},
+  {"id": 3, "name": "Manouchar Markoishvili", "name_he": "מנוצ'אר מרקושווילי", "team_code": "MCO", "price": 13.0},
+  {"id": 4, "name": "Sergio Scariolo", "name_he": "סרג'יו סקאריולו", "team_code": "MAD", "price": 13.0},
+  {"id": 5, "name": "Dimitris Itoudis", "name_he": "דימיטריס איטודיס", "team_code": "HTA", "price": 12.0},
+  {"id": 6, "name": "Sarunas Jasikevicius", "name_he": "שאראס", "team_code": "ULK", "price": 12.0},
+  {"id": 7, "name": "Pablo Laso", "name_he": "פבלו לאסו", "team_code": "IST", "price": 11.0},
+  {"id": 8, "name": "Xavi Pascual", "name_he": "צ'אבי פסקואל", "team_code": "BAR", "price": 11.0},
+  {"id": 9, "name": "Sasha Obradovic", "name_he": "סשה אוברדוביץ'", "team_code": "RED", "price": 10.0},
+  {"id": 10, "name": "Giuseppe Poeta", "name_he": "ג'וזפה פואטה", "team_code": "MIL", "price": 10.0},
+  {"id": 11, "name": "Jurica Golemac", "name_he": "יוריצה גולמאץ", "team_code": "DUB", "price": 9.0},
+  {"id": 12, "name": "Joan Pennarroya", "name_he": "ז'ואן פניירויה", "team_code": "PAR", "price": 9.0},
+  {"id": 13, "name": "Tomas Masiulis", "name_he": "תומאס מאסיוליס", "team_code": "ZAL", "price": 8.0},
+  {"id": 14, "name": "Oded Kattash", "name_he": "עודד קטש", "team_code": "TEL", "price": 8.0},
+  {"id": 15, "name": "Dusko Ivanovic", "name_he": "דושקו איבנוביץ'", "team_code": "VIR", "price": 7.0},
+  {"id": 16, "name": "Pedro Martins", "name_he": "פדרו מרטינס", "team_code": "PAM", "price": 7.0},
+  {"id": 17, "name": "Svetislav Pesic", "name_he": "סבטיסלב פשיץ'", "team_code": "MUN", "price": 6.0},
+  {"id": 18, "name": "Paolo Galbiati", "name_he": "פאולו גלבייטי", "team_code": "BAS", "price": 6.0},
+  {"id": 19, "name": "Thomas Julius", "name_he": "תומאס ג'וליוס", "team_code": "PRS", "price": 5.0},
+  {"id": 20, "name": "Pierric Poupet", "name_he": "פייריק פופה", "team_code": "ASV", "price": 5.0}
 ]

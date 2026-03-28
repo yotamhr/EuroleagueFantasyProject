@@ -56,8 +56,8 @@ EuroleagueFantasyProject/
 │   │   └── SquadPage.tsx       # Squad breakdown view
 │   └── App.tsx                 # Router + nav
 ├── data/
-│   ├── players.json            # Player list: {id, name, position, team_code, price, euroleague_player_id}
-│   ├── coaches.json            # Coach list: {id, name, team_code, price}
+│   ├── players.json            # Player list: {id, name, name_he, position, team_code, price, euroleague_player_id}
+│   ├── coaches.json            # Coach list: {id, name, name_he, team_code, price}
 │   ├── squads/round_N.json     # User's squad per round (committed to git)
 │   └── stats/round_N.json      # Fetched stats per round (gitignored, re-fetchable)
 └── scripts/
@@ -121,10 +121,10 @@ Loss: -5 - losing margin
 - [x] Squad breakdown with auto-sub, captain doubling, bench 50% rules
 - [x] Basic React frontend (StatsPage, SquadPage)
 - [x] API exploration script confirmed working for E2025
+- [x] Real player/coach data populated (324 players, 20 coaches, all 20 teams, with Hebrew+English names)
 
 ## What's Next (see GitHub Issues)
-1. Add real player/coach data to JSON files
-2. Test full round stats fetch end-to-end
+1. Test full round stats fetch end-to-end
 3. Improve React UI (squad editing, player picker)
 4. Add team optimizer (PuLP linear programming)
 5. Add transfer suggester
